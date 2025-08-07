@@ -92,8 +92,8 @@ kotlin-mastery/
 ### Configuración Inicial
 1. **Clona el repositorio**
    ```bash
-   git clone [URL_DEL_REPO]
-   cd kotlin-mastery
+   git clone git@github.com:chochy2001/KotlinCourse.git
+   cd KotlinCourse
    ```
 
 2. **Instala las herramientas**
